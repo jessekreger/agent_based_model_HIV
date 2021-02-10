@@ -1,5 +1,5 @@
 # agent_based_model_HIV
 
-# Sample code for "A hybrid stochastic-deterministic approach to explore multiple infection and evolution in HIV", preprint located here: https://www.biorxiv.org/content/10.1101/2020.08.30.274142v1
+# Sample code for "Effect of synaptic cell-to-cell transmission and recombination on the evolution of double mutants in HIV", located here: https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0832
 
 # Please direct questions to Jesse Kreger (kregerj@uci.edu)
